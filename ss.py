@@ -1,1 +1,2 @@
 print('gun')
+print('cup')
